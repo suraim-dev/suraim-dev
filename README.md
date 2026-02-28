@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Suraim
 
-<!--
-**suraim-dev/suraim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | SaaS Builder | Financial Web Specialist  
+🌍 Based in Bangladesh  
+💼 Building high-converting, modern websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Next.js
+- React
+- Tailwind CSS
+- Supabase
+- TypeScript
+- Shadcn/UI
+
+---
+
+## 📌 Featured Projects
+
+### 💰 FinancePath (SaaS Project)
+Professional financial SaaS landing + dashboard.
+
+🔗 Live Demo: (Add link)
+🔗 Repository: (Add link)
+
+---
+
+## 📫 Contact Me
+- Email: your@email.com
+- LinkedIn: (Add later)
